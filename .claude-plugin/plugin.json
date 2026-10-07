@@ -1,0 +1,13 @@
+{
+  "name": "time-de-conteudo",
+  "version": "1.0.0",
+  "description": "5 skills que transformam o Claude no seu time de conteúdo pro Instagram: reel, carrossel, legenda, perfil e comentários.",
+  "author": {
+    "name": "Mateus Ferreira",
+    "url": "https://www.instagram.com/mateus.curta.ia/"
+  },
+  "homepage": "https://github.com/mateusffsc/time-de-conteudo",
+  "repository": "https://github.com/mateusffsc/time-de-conteudo",
+  "license": "MIT",
+  "keywords": ["instagram", "conteudo", "reels", "carrossel", "social-media"]
+}

@@ -1,0 +1,17 @@
+{
+  "name": "time-de-conteudo",
+  "owner": {
+    "name": "Mateus Ferreira"
+  },
+  "metadata": {
+    "description": "Time de conteúdo pro Instagram dentro do Claude Code."
+  },
+  "plugins": [
+    {
+      "name": "time-de-conteudo",
+      "source": "./",
+      "description": "5 skills que transformam o Claude no seu time de conteúdo pro Instagram: reel, carrossel, legenda, perfil e comentários.",
+      "version": "1.0.0"
+    }
+  ]
+}
